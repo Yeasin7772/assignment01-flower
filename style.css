@@ -1,0 +1,46 @@
+*{
+  margin: 0;  
+  padding: 0;
+}
+/* section-one style start here */
+.header-section{
+    height: 84vh;
+    display: flex;
+    align-items:center;
+    justify-content: space-evenly;
+    background-color: rgb(237, 192, 200);
+    
+}
+.header-one{
+    width: 260px;
+  }
+  .flowers{
+    height: 400px;
+    width: 300px;
+    padding-top: 20px;
+    
+  }
+  .header-discraption{
+   
+    width: 350px;
+    font-size: smaller;
+    color: rgb(75, 72, 72);
+    font-weight: 300;
+
+  }
+
+.header-title{
+    padding-top: 20px;
+    padding-bottom: 15px;
+    font-size: xx-large;
+}
+.btn-primary{
+    border: 0;
+    border-radius: 3px;
+    font-size: 8px;
+    background-color:#E55473;
+    padding: 10px 25px;
+    margin-top: 20px;
+    font-weight: 700;
+    color: white;
+}
