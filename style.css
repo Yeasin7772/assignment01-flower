@@ -30,8 +30,7 @@
   }
 
 .header-title{
-    padding-top: 20px;
-    padding-bottom: 15px;
+    padding-bottom: 10px;
     font-size: xx-large;
 }
 .btn-primary{
@@ -128,3 +127,40 @@
     padding-top: 10px;
 }
 /* images style end here */
+
+/* special-off-container style start here */
+.photo-img{
+    width: 300px;
+}
+.hot-container{
+
+    height:100 vh;
+  border: 2px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    border-radius: 8px solid;
+background: rgba(229, 84, 115, 0.05);
+ padding: right 50px; 
+padding-left: 40px; 
+margin-top: 40px;
+margin-bottom: 30px;
+
+
+}
+.container-text{
+    width: 500px;
+
+}
+.word{
+    color: red;
+}
+.hot-title{
+    padding-top:  25px;
+
+}
+.btn{
+    width: auto;
+    padding-left: 20px;
+}
+/* special-off-container style end here */
