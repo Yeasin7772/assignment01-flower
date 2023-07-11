@@ -228,5 +228,97 @@ margin-bottom: 30px;
     height: 400px;
     background-image: url("images/Rectangle\ 6.png");
 }
+/* "Instagram-container style end here */
 
+/* Subscribe-container style start here */
+.Subscribe-title{
+    text-align: center;
+    padding-top: 150px;
     
+} 
+.Subscribe-descrpiton{
+    text-align: center;
+    padding-top: 10px;
+    
+}
+.from{
+    
+    text-align: center;
+    align-items: center;
+}
+.bttn-prymary{
+    text-align: center;
+}
+.text{
+/* height: 480px;
+width: 1450px; */
+margin: auto;
+border-radius: 8px;
+
+background-image:url("images/Rectangle\ 9.png") ;
+background-size: 100%;
+background-repeat: no-repeat;
+background-position: center;
+width: 1000px;
+height: 500px;
+/* text-align: center; */
+
+.text{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+}
+input{
+    width: 39%;
+    height: 27px;
+}
+
+/* Subscribe-container style end here */
+
+/* footer style start here */
+    
+.flowershop-container{
+    height: 500px;
+    width:100%;
+    background-color: black;
+    text-align: center;
+    color: #FFF;
+}
+
+.flower-title{
+padding-top: 50px; 
+padding-bottom: 30px;
+font-family: Lato;
+font-size: 48px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+}
+.flower-descriptsion{
+    padding-bottom: 20px;
+   
+color: rgba(255, 255, 255, 0.90);
+text-align: center;
+font-family: Lato;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 30px;
+}
+.address{
+  padding-top: 50px;
+  color: rgba(255, 255, 255, 0.40);
+text-align: center;
+font-family: Lato;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+.flower-color{
+    color: #E55473;
+}
+/* footer style end here */
