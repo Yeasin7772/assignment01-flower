@@ -322,3 +322,38 @@ line-height: normal;
     color: #E55473;
 }
 /* footer style end here */
+
+/* bonus taks start here */
+
+.container{
+    background-color: burlywood;
+}
+
+.dear-container{
+    background-image: url('images/bonus.png');
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 1000px;
+    background-position: center;
+    background-size: cover;
+    
+}
+
+.dear-some-text{
+    
+}
+
+.container-head{
+    font-size: x-large;
+text-align: center;
+color: #ee0232;
+padding-top: 50px;
+}
+
+.container-dis{
+    
+    padding-top: 40px;
+    text-align: center;
+    font-size: 25px;
+
+}
